@@ -6,11 +6,11 @@
 ## این مجوعه الان شامل موارد زیره
 
 - ### لیست تمام کشور های جهان [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries)
-> * Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/SqlServer)
-> * Excle file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Excel)
-> * Csv file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Csv)
+> * Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Scripts/SqlServer)
+> * Excle file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Scripts/Excel)
+> * Csv file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Scripts/Csv)
 
 <br>
 
 - ### لیست تمام استان های کشور ایران [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces)
-> * Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces/SqlServer)
+> * Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces/Scripts/SqlServer)
