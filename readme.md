@@ -13,13 +13,12 @@
 
 ## این مجوعه درحال حاضر شامل موارد زیره (در گذر زمان موارد جدید تر رو اضافه میکنم)
 
-- ### لیست تمام کشور های جهان [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries)
-- - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Scripts/SqlServer)
-- - Excle file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Scripts/Excel)
-- - Csv file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Countries/Scripts/Csv)
+- ### لیست تمام کشور های جهان [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Countries)
+- - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Countries/Scripts/SqlServer)
+- - Excle file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Countries/Scripts/Excel)
+- - Csv file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Countries/Scripts/Csv)
 
 <br>
 
-- ### لیست تمام استان های کشور ایران [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces)
-- - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces/Scripts/SqlServer)
-
+- ### لیست تمام استان های کشور ایران [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Provinces)
+- - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Provinces/Scripts/SqlServer)
