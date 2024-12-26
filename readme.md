@@ -6,13 +6,11 @@
 ## این مجوعه الان شامل موارد زیره
 
 - ### لیست تمام کشور های جهان
-> Sql Server Script
-<br>
-> Excle file
-<br>
-> Csv file
+> * Sql Server Script
+> * Excle file
+> * Csv file
 
 <br>
 
 - ### لیست تمام استان های کشور ایران
-> Sql Server Script
+> * Sql Server Script
