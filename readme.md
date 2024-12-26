@@ -6,4 +6,9 @@
 این مجوعه الان شامل موارد زیره:
 
 1. لیست تمام کشور های جهان
+Sql server Script
+
 2. لیست تمام استان های کشور ایران
+Sql server Script
+Excle file
+Csv file
