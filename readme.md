@@ -13,9 +13,3 @@
 
 - ### لیست تمام استان های کشور ایران [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces)
 - - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/Provinces/Scripts/SqlServer)
-
-<style>
-    * {
-        direction: rtl;
-    }
-</style>
