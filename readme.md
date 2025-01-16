@@ -23,4 +23,8 @@
 - ### لیست تمام استان های کشور ایران [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Provinces)
 - - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/Provinces/Scripts/SqlServer)
 
+<br>
 
+- ### لیست تمام شهر های کشور ایران [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/City)
+- - Sql Server Script [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/City/Scripts/SqlServer)
+- - Csv file [(لینک نمایش)](https://github.com/mzeynali-ir/BasicInformation/tree/main/src/City/Scripts/Csv)
