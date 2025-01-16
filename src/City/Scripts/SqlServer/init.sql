@@ -1,7 +1,7 @@
 USE [BasicInformation_GitHub]
 GO
 
-/****** Object:  Table [dbo].[Cities]    Script Date: 12/26/2024 2:33:46 PM ******/
+/****** Object:  Table [dbo].[Cities]    Script Date: 2025-01-16 14:39:12 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -9,13 +9,21 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 CREATE TABLE [dbo].[Cities](
-	[ID] [int] NOT NULL,
+	[ID] [int] IDENTITY(1,1) NOT NULL,
 	[Title] [nvarchar](32) NOT NULL,
+	[ProvinceID] [int] NOT NULL,
  CONSTRAINT [PK_Cities] PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Cities]  WITH CHECK ADD  CONSTRAINT [FK_Cities_Provinces] FOREIGN KEY([ProvinceID])
+REFERENCES [dbo].[Provinces] ([ID])
+GO
+
+ALTER TABLE [dbo].[Cities] CHECK CONSTRAINT [FK_Cities_Provinces]
 GO
 
 
